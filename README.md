@@ -2,6 +2,7 @@ made by Björn F. archived from deleted repo. Not maintained anymore. All the cr
 
 Right-click any image or video to save it directly to your self-hosted Immich server.
 
+<img width="2400" height="1800" alt="image" src="https://github.com/user-attachments/assets/b5efddac-57ff-443f-9909-867ec305dd06" />
 
 
 Immich Companion is a browser companion for your self-hosted Immich photo library. It lets you save images and videos from any webpage with one right-click, search your photos from anywhere in the browser, and turn every new tab into a feed of your own memories.
